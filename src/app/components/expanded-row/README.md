@@ -1,7 +1,4 @@
-# THE EXPANDED ROW APPROACH
-Our only concern is:
-1. Adding the container with a placeholder for other components.
-2. Ability to access the click event of the row to enable the expanded row.
+
 
 
 ## The Solution?  
