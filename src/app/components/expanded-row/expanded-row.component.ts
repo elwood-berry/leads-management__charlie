@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { KanbanModule } from '@anterasoftware/angular-material-kanban';
+
 
 @Component({
   selector: 'app-expanded-row',
